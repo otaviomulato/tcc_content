@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Página-1" id="x0EAJvNVMGjAKTITFKiO">
-    <mxGraphModel dx="1438" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1530" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-3" value="Permite" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="329" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-4" value="Personalização" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-4" value="Personalizacao" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="489" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lmmOF3_pl6mlVUFm9OXF-2" target="lmmOF3_pl6mlVUFm9OXF-3" edge="1">
@@ -28,10 +28,10 @@
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-8" value="id_produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="59" y="126" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-10" value="descrição" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-10" value="descricao" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="59" y="177" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-12" value="preço" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-12" value="preco" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="59" y="228" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lmmOF3_pl6mlVUFm9OXF-2" edge="1">
@@ -106,7 +106,7 @@
             <mxPoint x="289" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-39" value="id_personalização" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-39" value="id_personalizacao" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="389" y="177" width="99.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-40" value="cor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
             <mxPoint x="498.5" y="243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-49" value="id_personalização" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-49" value="id_personalizacao" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="19.5" y="75" width="109.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-50" value="nome_personalização" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -178,13 +178,13 @@
             <mxPoint x="648.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-56" value="Crédito" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-56" value="Credito" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="129.5" y="1046" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-57" value="Administrador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="489" y="1046" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-58" value="Usuário" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-58" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="129" y="785" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-59" value="Consulta" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
@@ -283,7 +283,7 @@
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-82" value="id_user" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="40" y="1220" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-83" value="id_crédito" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-83" value="id_credito" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="269" y="1221" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-85" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lmmOF3_pl6mlVUFm9OXF-58" edge="1">
@@ -373,7 +373,7 @@
             <mxPoint x="499.83000000000004" y="766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-112" value="profissão" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-112" value="profissao" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="706" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-113" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -448,7 +448,7 @@
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-130" value="id_crédito" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="611" y="1146" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-131" value="id_personalização" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-131" value="id_personalizacao" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="610.5" y="1196" width="109.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-133" value="id_produto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
@@ -544,7 +544,7 @@
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-174" value="status" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-76" y="464" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lmmOF3_pl6mlVUFm9OXF-175" value="data_criação" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lmmOF3_pl6mlVUFm9OXF-175" value="data_criaçao" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7" y="466" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmmOF3_pl6mlVUFm9OXF-176" value="id_user" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
